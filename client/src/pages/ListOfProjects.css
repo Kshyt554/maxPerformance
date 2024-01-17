@@ -6,6 +6,14 @@
     opacity: 1;
   }
 }
+.maxperformanceIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 179px;
+  height: 179px;
+  object-fit: cover;
+}
 .navbar-icon {
   background-color: #56E0E0;
   position: absolute;
@@ -105,10 +113,10 @@
   text-align: center;
   display: inline-block;
 }
-.avatar-icon {
+.avatarIcon {
   position: absolute;
-  top: 47px;
-  left: 500;;
+  top: 43px;
+  left: 1210px;;
   width: 57px;
   height: 57px;
 }
